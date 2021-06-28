@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://yiyibeifen.abel.gg/portfolio/zly%E7%9A%84%E4%B8%80%E5%A4%A9/</loc>
+    <lastmod>2020-12-06T21:32:35+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yiyibeifen.abel.gg/portfolio/%E4%B8%80%E5%8F%AA%E5%B0%8F%E8%8A%B1%E7%8B%97/</loc>
+    <lastmod>2020-04-14T22:07:24+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yiyibeifen.abel.gg/portfolio/%E6%9C%89%E4%B8%AA%E5%B0%8F%E5%AD%A9%E5%8F%ABzly/</loc>
+    <lastmod>2020-04-02T22:37:50+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yiyibeifen.abel.gg/contact/</loc>
+    <lastmod>2016-11-06T13:00:25+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yiyibeifen.abel.gg/about/</loc>
+    <lastmod>2016-11-05T21:05:33+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yiyibeifen.abel.gg/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://yiyibeifen.abel.gg/portfolio/</loc>
+    <lastmod>2020-12-06T21:32:35+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://yiyibeifen.abel.gg/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://yiyibeifen.abel.gg/</loc>
+    <lastmod>2020-12-06T21:32:35+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
